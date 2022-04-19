@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">midterm2</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="natid">National Id:</string>
+    <string name="bttninsert">INSERT</string>
+    <string name="bttnSecondAct">Go To Second Activity</string>
+    <string name="bttnThirdAct">Go To Third Activity</string>
+    <string name="bttnDate" />
+
+    <string-array name="cities">
+        <item>London</item>
+        <item>Jeddah</item>
+        <item>Dammam</item>
+
+    </string-array>
+</resources>
